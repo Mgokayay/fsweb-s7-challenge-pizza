@@ -11,7 +11,7 @@ export default function Anasayfa() {
                 <div className="header-anasayfa">
                 <img src={ReactLogo}></img>
             </div>
-                    
+            <p className="firsat"> fırsatı kaçırma</p>
                     <p className="slogan">KOD ACIKTIRIR <br></br> PIZZA DOYURUR</p>
                     
                     <div className="mt">
